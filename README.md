@@ -1,4 +1,4 @@
-# Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
+# Resources for explaining artificial intelligence to the public to build trust in artificial intelligence: teaching, community building and outreach activities
 
 ## Introduction
 
