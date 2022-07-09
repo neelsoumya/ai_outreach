@@ -1,0 +1,11 @@
+Package: outreach_ppi
+Type: Package
+Title: outreach_ppi: Outreach and patient and public involvement (PPI) resources for explaining Artificial Intelligence
+Version: 1.0
+Imports: bookdown,
+          rmarkdown,
+          knitr,
+          tinytex,
+          ggplot2,
+          sqldf,
+          shiny
