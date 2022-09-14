@@ -72,6 +72,11 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://federated.withgoogle.com/
  
+* Better images of AI
+
+     * https://betterimagesofai.org/images
+ 
+ 
 * AI for companies
 
     * https://landing.ai/resources/ai-transformation-playbook/
