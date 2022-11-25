@@ -35,6 +35,10 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://experiments.withgoogle.com/collection/creatability
     
 
+* An interactive animation to help understand how neural networks work 
+
+https://ncase.me/neurons/
+
 
 * More AI in the browser and outreach materials
 
