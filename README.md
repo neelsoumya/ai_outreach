@@ -37,7 +37,7 @@ This repository has open source outreach and patient and public involvement (PPI
 
 * An interactive animation to help understand how neural networks work 
 
-https://ncase.me/neurons/
+    * https://ncase.me/neurons/
 
 
 * More AI in the browser and outreach materials
