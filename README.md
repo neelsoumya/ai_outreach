@@ -80,6 +80,9 @@ This repository has open source outreach and patient and public involvement (PPI
 
      * https://betterimagesofai.org/images
  
+* Ethics in mathematics (comics)
+
+https://ethics.maths.cam.ac.uk/course/comics/
  
 * AI for companies
 
