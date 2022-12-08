@@ -109,22 +109,16 @@ A laptop/desktop/smartphone with an internet connection.
 
 ## Manuscript and citation
 
-If you like or use this work, please cite the following manuscript:
+Forthcoming
+
+<!-- If you like or use this work, please cite the following manuscript:
 
    Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
    Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
    
    https://doi.org/10.1016/j.patter.2022.100506
-
-
-## Support and contact
-
-   * Soumya Banerjee
-
-   * sb2333@cam.ac.uk
-    
-
-If you like like or use this, please cite the following DOI:
+   
+   If you like like or use this, please cite the following DOI:
 
 
 https://doi.org/10.1016/j.patter.2022.100506
@@ -135,4 +129,14 @@ and the following manuscript
    Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
    
    https://doi.org/10.1016/j.patter.2022.100506
+-->
+
+## Support and contact
+
+   * Soumya Banerjee
+
+   * sb2333@cam.ac.uk
+    
+
+
 
