@@ -11,11 +11,12 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://teachablemachine.withgoogle.com/
 
-    * https://www.climbproject.org.uk/dance-mat
+   <!-- * https://www.climbproject.org.uk/dance-mat
     
     * https://www.climbproject.org.uk/big-data-illustration
     
     * https://www.climbproject.org.uk/machine-learning-webcam
+    -->
 
     * https://www.aimyths.org/
 
@@ -111,25 +112,6 @@ A laptop/desktop/smartphone with an internet connection.
 
 Forthcoming
 
-<!-- If you like or use this work, please cite the following manuscript:
-
-   Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
-   Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
-   
-   https://doi.org/10.1016/j.patter.2022.100506
-   
-   If you like like or use this, please cite the following DOI:
-
-
-https://doi.org/10.1016/j.patter.2022.100506
-
-and the following manuscript
-
- Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
-   Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
-   
-   https://doi.org/10.1016/j.patter.2022.100506
--->
 
 ## Support and contact
 
