@@ -57,10 +57,10 @@ This repository has open source outreach and patient and public involvement (PPI
     
     * https://pair-code.github.io/what-if-tool/uci.html
     
-    * https://www.climbproject.org.uk/big-data
+<!--    * https://www.climbproject.org.uk/big-data
     
     * https://www.climbproject.org.uk/dance-mat
-    
+    -->
     
 * Materials for AI outreach for general public
 
@@ -93,10 +93,10 @@ This repository has open source outreach and patient and public involvement (PPI
 
    https://github.com/neelsoumya/reading_list_journal_club
     
-* Working with domain experts
+<!--  * Working with domain experts
 
    https://github.com/neelsoumya/working_with_domain_experts   
-
+-->
 
 ## Code
 
@@ -105,7 +105,7 @@ This repository has open source outreach and patient and public involvement (PPI
 
 ## Requirements
 
-A laptop/desktop/smartphone with an internet connection.
+A modern laptop/desktop/smartphone with an internet connection.
 
 
 ## Manuscript and citation
