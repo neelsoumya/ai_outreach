@@ -9,6 +9,8 @@ This repository has open source outreach and patient and public involvement (PPI
 
 * Resources
 
+   Build your own machine learning model in the browser:
+
     * https://teachablemachine.withgoogle.com/
 
    <!-- * https://www.climbproject.org.uk/dance-mat
@@ -17,6 +19,9 @@ This repository has open source outreach and patient and public involvement (PPI
     
     * https://www.climbproject.org.uk/machine-learning-webcam
     -->
+
+   Understand and debunk common myths about AI:
+
 
     * https://www.aimyths.org/
 
