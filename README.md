@@ -26,7 +26,7 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://www.aimyths.org/
 
 
-* Tensorflow and AI in the browser
+* Tensorflow and AI in the browser. Build your own AI models in the browser 
 
     * https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
 
