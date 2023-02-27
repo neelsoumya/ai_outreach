@@ -26,6 +26,11 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://www.aimyths.org/
 
 
+* An interactive animation to help understand how neural networks work 
+
+    * https://ncase.me/neurons/
+
+
 * Tensorflow and AI in the browser. Build your own AI models in the browser 
  
     * https://playground.tensorflow.org
@@ -43,10 +48,6 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://experiments.withgoogle.com/collection/creatability
     
 
-* An interactive animation to help understand how neural networks work 
-
-    * https://ncase.me/neurons/
-
 
 * More AI in the browser and outreach materials
 
@@ -54,8 +55,7 @@ This repository has open source outreach and patient and public involvement (PPI
     
     * https://experiments.withgoogle.com/collection/ai
     
-    
-    
+        
     * https://teachablemachine.withgoogle.com/
     
     * https://quickdraw.withgoogle.com/
@@ -69,6 +69,8 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://www.climbproject.org.uk/dance-mat
     -->
     
+    
+    
 <!-- * Materials for AI outreach for general public -->
 
  * A video to help understand what AI can and cannot do
@@ -76,9 +78,11 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do​
 
  
-* Better images of AI
+* Better images of AI. Most images of AI capture general misconceptions and obfuscate the true nature of AI. This website is a repository of images that accurately portray the nature of AI to lay audiences
+
 
      * https://betterimagesofai.org/images
+ 
  
 * Ethics in mathematics (comics)
 
