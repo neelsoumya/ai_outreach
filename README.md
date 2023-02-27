@@ -75,10 +75,6 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do​
 
-    * https://teachablemachine.withgoogle.com/
-
-    * http://projector.tensorflow.org/
-    
  
 * Better images of AI
 
