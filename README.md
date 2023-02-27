@@ -69,6 +69,8 @@ This repository has open source outreach and patient and public involvement (PPI
     
 * Materials for AI outreach for general public
 
+     A video to help understand what AI can and cannot do
+
     * https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do​
 
     * https://teachablemachine.withgoogle.com/
@@ -77,10 +79,6 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * http://projector.tensorflow.org/
     
-
-* Explaining privacy preserving analysis to the public using a comic
-
-    * https://federated.withgoogle.com/
  
 * Better images of AI
 
@@ -92,6 +90,12 @@ This repository has open source outreach and patient and public involvement (PPI
 
 
      * https://ethics.maths.cam.ac.uk/course/comics/
+ 
+
+* Explaining privacy preserving analysis to the public using a comic
+
+    * https://federated.withgoogle.com/
+ 
  
 * AI for companies
 
