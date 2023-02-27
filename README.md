@@ -27,6 +27,8 @@ This repository has open source outreach and patient and public involvement (PPI
 
 
 * Tensorflow and AI in the browser. Build your own AI models in the browser 
+ 
+    * https://playground.tensorflow.org
 
     * https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
 
@@ -67,15 +69,13 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://www.climbproject.org.uk/dance-mat
     -->
     
-* Materials for AI outreach for general public
+<!-- * Materials for AI outreach for general public -->
 
-     A video to help understand what AI can and cannot do
+ * A video to help understand what AI can and cannot do
 
     * https://www.coursera.org/learn/ai-for-everyone/lecture/9n83j/more-examples-of-what-machine-learning-can-and-cannot-do​
 
     * https://teachablemachine.withgoogle.com/
-
-    * https://playground.tensorflow.org
 
     * http://projector.tensorflow.org/
     
