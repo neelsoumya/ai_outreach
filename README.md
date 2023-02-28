@@ -1,5 +1,8 @@
 # Resources for explaining artificial intelligence to the public to build trust in artificial intelligence: teaching, community building and outreach activities
 
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+
 ## Introduction
 
 This repository has open source outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI) in healthcare. These resources can be used for teaching AI to the general public and patients.
@@ -133,4 +136,5 @@ Forthcoming
     
 
 
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
