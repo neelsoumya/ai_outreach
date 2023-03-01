@@ -100,13 +100,14 @@ This repository has open source outreach and patient and public involvement (PPI
     * https://federated.withgoogle.com/
  
  
-* AI for companies
+* Resources to help understand how AI can be used by companies/organizations
 
     * https://landing.ai/resources/ai-transformation-playbook/
 
-* Resources for training and teaching data scientists
+<!-- * Resources for training and teaching data scientists
 
    https://github.com/neelsoumya/reading_list_journal_club
+-->    
     
 <!--  * Working with domain experts
 
