@@ -87,9 +87,7 @@ This repository has open source outreach and patient and public involvement (PPI
      * https://betterimagesofai.org/images
  
  
-* Ethics in mathematics (comics)
-
-   Resources to help scientists and mathematicians reflect on ethics and help build a moral compass.
+* Resources to help scientists and mathematicians reflect on ethics and help build a moral compass.
 
 
      * https://ethics.maths.cam.ac.uk/course/comics/
