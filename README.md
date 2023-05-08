@@ -104,6 +104,10 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * http://web.archive.org/web/20221008112517/http://landing.ai/wp-content/uploads/2020/05/LandingAI_Transformation_Playbook_11-19.pdf
 
+* Responsible AI practices
+
+    * https://ai.google/responsibilities/responsible-ai-practices/
+
 <!-- * Resources for training and teaching data scientists
 
    https://github.com/neelsoumya/reading_list_journal_club
