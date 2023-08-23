@@ -130,7 +130,13 @@ A modern laptop/desktop/smartphone with an internet connection.
 
 ## Manuscript and citation
 
-Forthcoming
+Involving patients in artificial intelligence research to build trustworthy systems, Soumya Banerjee, Sarah Griffiths, AI & Society, 2023
+
+https://link.springer.com/article/10.1007/s00146-023-01745-7
+
+Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies, Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6):100506, 2022
+
+https://www.cell.com/patterns/fulltext/S2666-3899%2822%2900098-8
 
 
 ## Support and contact
