@@ -92,6 +92,8 @@ This repository has open source outreach and patient and public involvement (PPI
 
      * https://ethics.maths.cam.ac.uk/course/comics/
  
+     * https://www.coursera.org/learn/generative-ai-for-everyone/lecture/uKeoC/responsible-ai
+ 
 
 * Explaining privacy preserving analysis to the public using a comic
 
