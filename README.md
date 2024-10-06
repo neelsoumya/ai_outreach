@@ -110,6 +110,9 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://ai.google/responsibilities/responsible-ai-practices/
 
+* Environmental impact of AI
+
+  https://mlco2.github.io/impact/#act
 <!-- * Resources for training and teaching data scientists
 
    https://github.com/neelsoumya/reading_list_journal_club
