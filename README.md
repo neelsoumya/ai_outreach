@@ -123,6 +123,11 @@ This repository has open source outreach and patient and public involvement (PPI
    https://github.com/neelsoumya/working_with_domain_experts   
 -->
 
+* Introduction to AI safety, AI ethics and Philosophy of AI 101
+
+https://github.com/neelsoumya/AI_safety_teaching_resources/blob/main/generative_AI_course_latex_v2.pdf
+
+
 ## Code
 
    https://github.com/googlecreativelab/teachable-machine-v1   
